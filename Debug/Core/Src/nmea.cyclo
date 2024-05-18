@@ -1,0 +1,9 @@
+../Core/Src/nmea.c:3:6:NMEA_Structure_Update	9
+../Core/Src/nmea.c:70:6:GGA_Structure_Update	3
+../Core/Src/nmea.c:193:6:GLL_Structure_Update	3
+../Core/Src/nmea.c:281:6:GSA_Structure_Update	3
+../Core/Src/nmea.c:409:6:GSV_Structure_Update	3
+../Core/Src/nmea.c:543:6:MSS_Structure_Update	3
+../Core/Src/nmea.c:607:6:RMC_Structure_Update	3
+../Core/Src/nmea.c:726:6:VTG_Structure_Update	3
+../Core/Src/nmea.c:810:6:ZDA_Structure_Update	3
